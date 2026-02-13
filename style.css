@@ -1,0 +1,8 @@
+.profileImg{
+    border-radius: 100%;
+    background-color: magenta;
+}
+.profile{
+    display: flex;
+    justify-content: space-between;
+}
